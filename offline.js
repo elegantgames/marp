@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1634130659,
+	"version": 1634983391,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -38,6 +38,7 @@
 		"images/tastaghirdahande-sheet1.png",
 		"images/tastaghirdahande-sheet2.png",
 		"images/nooresetare-sheet0.png",
+		"images/nooresetare-sheet1.png",
 		"images/bkblackwhite-sheet0.png",
 		"images/backsoaltastaghir-sheet0.png",
 		"images/mosbateyek-sheet0.png",
@@ -49,6 +50,13 @@
 		"images/nooreitempele-sheet0.png",
 		"images/separ-sheet0.png",
 		"images/separ-sheet1.png",
+		"images/baldarja-sheet0.png",
+		"images/baldarja-sheet1.png",
+		"images/whitebk-sheet0.png",
+		"images/replay-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/sprite4-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
