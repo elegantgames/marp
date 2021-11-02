@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1635512074,
+	"version": 1635848118,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -59,6 +59,10 @@
 		"images/sprite4-sheet0.png",
 		"images/sprite5-sheet0.png",
 		"images/noorrr-sheet0.png",
+		"images/dokmeyemosbat-sheet0.png",
+		"images/dokmeyemanfi-sheet0.png",
+		"images/mosbatmafi-sheet0.png",
+		"images/mosbatmafi-sheet1.png",
 		"media/16987_1461335348.m4a",
 		"media/16987_1461335348.ogg",
 		"media/effect34.m4a",
